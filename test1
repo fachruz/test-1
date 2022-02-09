@@ -1,0 +1,39 @@
+{
+  "name": "<project-name>",
+  "accounts": [
+    {
+      "address": "junoxxx",
+      "amount": 1234
+    },
+    {
+      "address": "junoyyy",
+      "amount": 1234
+    }
+  ],
+  "cw20TokenAddress": "<token-contract-address>",
+  "start": "<airdrop-start-block-number> OR <unix-timestamp> OR null",
+  "startType": "<height OR timestamp> OR null",
+  "expiration": "<airdrop-end-block-number> OR <unix-timestamp> OR null",
+  "expirationType": "<height OR timestamp> OR null",
+  "totalAmount": "<total-airdropped-token-amount>"
+  {
+  
+  
+  "cw20TokenAddress": "<junotz1Z77iWwWzbv6uPDMTnZr9CDzgb2LfMteaF>",
+"name": "<crazyrich>",
+  "start": null,
+  "startType": null,
+  "expiration": null,
+  "expirationType": null,
+  "totalAmount": 1000000,
+ "accounts": [
+    {
+      "address": "junotz1Z77iWwWzbv6uPDMTnZr9CDzgb2LfMteaF",
+      "amount": 1000000,
+    },
+    {
+      "address": "junotz1Z77iWwWzbv6uPDMTnZr9CDzgb2LfMteaF",
+      "amount": 1000000,
+    }
+  ],
+}
